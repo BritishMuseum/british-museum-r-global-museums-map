@@ -1,6 +1,6 @@
 # RGlobalMuseumMap
 
-Using package rworldmap package in R to plot the number of museums by country.
+Using the R package [*rworldmap*](https://cran.r-project.org/web/packages/rworldmap/) to plot the number of museums by country.
 
 ![Alt Text](https://raw.githubusercontent.com/BritishMuseum/RGlobalMuseumMap/master/worldmapblackwhitedarkmuseum.jpeg)
 

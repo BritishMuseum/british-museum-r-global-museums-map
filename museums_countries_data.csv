@@ -1,6 +1,6 @@
 number_of_museums,country,ISO
 10,Afghanistan,AFG
-0,Åland Islands,ALA
+0,Aland Islands,ALA
 27,Albania,ALB
 48,Algeria,DZA
 1,American Samoa,ASM
@@ -58,7 +58,7 @@ number_of_museums,country,ISO
 15,Cote d'Ivoire,CIV
 182,Croatia,HRV
 338,Cuba,CUB
-2,Curaçao,CUW
+2,CuraÃ§ao,CUW
 91,Cyprus,CYP
 563,Czech Republic,CZE
 11,Democratic People's Republic of Korea,PRK
@@ -178,11 +178,11 @@ number_of_museums,country,ISO
 8,Qatar,QAT
 186,Republic of Korea,KOR
 6,Republic of Moldova,MDA
-7,Réunion,REU
+7,RÃ©union,REU
 651,Romania,ROU
 1250,Russian Federation,RUS
 3,Rwanda,RWA
-0,Saint Barthélemy,BLM
+0,Saint BarthÃ©lemy,BLM
 0,Saint Helena,SHN
 0,Saint Kitts and Nevis,KNA
 2,Saint Lucia,LCA
